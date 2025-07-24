@@ -1,0 +1,11 @@
+flask
+fredapi
+google-cloud-translate
+pytz
+yfinance
+speechrecognition
+pyaudio
+langcodes
+lingua-language-detector
+googletrans
+pandas
